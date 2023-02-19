@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Use Of Nav_Graph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="data_fragment">Data fragment</string>
+    <string name="button1">Go To DataFragment</string>
+    <string name="button2">Go To HomeFragment</string>
+</resources>
